@@ -3,7 +3,7 @@
 # @author Francesco Masnadi
 # @email francesco.masnadi@outlook.it
 #
-# This app has been developed as the Ph.D. thesis of Francesco Masnadi 
+# This app has been developed as part of the Ph.D. thesis of Francesco Masnadi 
 # Ph.D. Program "Innovative Technologies and Sustainable Use of Mediterranean Sea Fishery and Biological Resources" (www.FishMed-PhD.org). 
 #><>><>><>><>><>><>><>><>><>><>><>><>><>><>><>><>><>><>><>><>><>><>><>><>><>><>
 
