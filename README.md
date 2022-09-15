@@ -2,7 +2,14 @@
 
 This repo contains all the script that has been developed during the work done for the Ph.D. thesis of Francesco Masnadi to support the methods described in Chapter 4:"Stock assessment of common sole in GSA17: an ensemble approach using data-rich model"
 
-Conceived under the International Ph.D. Program “Innovative Technologies and Sustainable Use of Mediterranean Sea Fishery and Biological Resources” (www.FishMed-PhD.org)
+PhD Project in "Evaluation and management of demersal stocks in the Adriatic: the case of common sole (Solea solea, L.) in the northern and central Adriatic Sea" conceived under the International Ph.D. Program “Innovative Technologies and Sustainable Use of Mediterranean Sea Fishery and Biological Resources” (www.FishMed-PhD.org)
+
+Supervisor: Giuseppe Scarcella (CNR-IRBIM)
+
+Co-supervisors: Stefano Goffredo (UNIBO); Massimiliano Cardinale (SLU)
+
+
+File description:
 
 1) Ensemble_grid.R : Run all scenarios at once and plot results, do diagnostic, do Ensemble on final weighted grid
 
